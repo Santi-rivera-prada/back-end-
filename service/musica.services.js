@@ -1,4 +1,4 @@
-import musicaDao from "../dao/musica.dao.js";
+import musicaDao from "../dao/musica.dao.js"
 
 class MusicaService {
     async createMusica(musicaDto) {
